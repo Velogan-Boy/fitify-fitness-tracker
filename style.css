@@ -61,7 +61,7 @@ body {
 }
 
 .carousel img {
-   height: 90vh;
+   width: 100vw;
    /* overflow: hidden; */
 }
 
